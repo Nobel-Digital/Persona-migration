@@ -1,0 +1,10 @@
+{
+  "$id": "ce_prices.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Prices-default",
+  "entityType": "ce_prices",
+  "fields": [
+    "price"
+  ],
+  "required": []
+}

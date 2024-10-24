@@ -1,0 +1,19 @@
+{
+  "$id": "ce_personaServices.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Persona services-default",
+  "entityType": "ce_personaServices",
+  "fields": [
+    "c_personaFooterContactPhoto",
+    "c_personaServiceBottomDescriptionText",
+    "c_personaServiceExcerpt",
+    "c_personaServiceFeaturedImage",
+    "c_personaServiceMoreTextBtn",
+    "c_personaServiceTitle",
+    "c_personaServiceTopDescriptionText",
+    "c_personaServiceUrl",
+    "c_privacyPolicy",
+    "slug"
+  ],
+  "required": []
+}

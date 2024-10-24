@@ -1,0 +1,22 @@
+{
+  "$id": "ce_splitScreen.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Split screen-default",
+  "entityType": "ce_splitScreen",
+  "fields": [
+    "c_backgroundImageLeft",
+    "c_backgroundImageRight",
+    "c_contentLeftButtonLabel",
+    "c_contentLeftButtonUrl",
+    "c_contentLeftDescription",
+    "c_contentLeftLogo",
+    "c_contentLeftTitle",
+    "c_contentRightButtonLabel",
+    "c_contentRightButtonUrl",
+    "c_contentRightDescription",
+    "c_contentRightLogo",
+    "c_contentRightTitle",
+    "slug"
+  ],
+  "required": []
+}

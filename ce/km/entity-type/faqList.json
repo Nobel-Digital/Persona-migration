@@ -1,0 +1,7 @@
+{
+  "$id": "ce_faqList",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
+  "description": "Add frequently asked questions",
+  "displayName": "Faq List",
+  "pluralDisplayName": "Faq List"
+}

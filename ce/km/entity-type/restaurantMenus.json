@@ -1,0 +1,7 @@
+{
+  "$id": "ce_restaurantMenus",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
+  "description": "Test for restaurant menus",
+  "displayName": "Restaurant Menus",
+  "pluralDisplayName": "Restaurant Menus"
+}

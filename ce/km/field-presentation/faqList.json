@@ -1,0 +1,46 @@
+{
+  "$id": "ce_faqList",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_faqList",
+  "displayName": "Faq list",
+  "presentationEntries": [
+    {
+      "displayName": "Sisu",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Põhiteave",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_faqContent",
+          "visibleOnAdd": true
+        }
+      ]
+    },
+    {
+      "displayName": "Muu",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Ainult ettevõttesiseseks kasutuseks",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "folder"
+        },
+        {
+          "id": "labels"
+        }
+      ]
+    }
+  ]
+}

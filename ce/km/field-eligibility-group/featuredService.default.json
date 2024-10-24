@@ -1,0 +1,10 @@
+{
+  "$id": "ce_featuredService.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Featured service-default",
+  "entityType": "ce_featuredService",
+  "fields": [
+    "price"
+  ],
+  "required": []
+}

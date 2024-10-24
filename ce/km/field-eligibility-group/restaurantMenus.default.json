@@ -1,0 +1,17 @@
+{
+  "$id": "ce_restaurantMenus.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Restaurant Menus-default",
+  "entityType": "ce_restaurantMenus",
+  "fields": [
+    "c_sponsors",
+    "price",
+    "primaryPhoto",
+    "shortDescriptionV2"
+  ],
+  "required": [
+    "price",
+    "primaryPhoto",
+    "shortDescriptionV2"
+  ]
+}

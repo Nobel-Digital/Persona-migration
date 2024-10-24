@@ -1,0 +1,14 @@
+{
+  "$id": "ce_blogArchive.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Blog archive-default",
+  "entityType": "ce_blogArchive",
+  "fields": [
+    "c_blogArticles",
+    "c_personaBlogList",
+    "c_personaFooterContactPhoto",
+    "c_privacyPolicy",
+    "slug"
+  ],
+  "required": []
+}

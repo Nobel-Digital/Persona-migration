@@ -1,0 +1,13 @@
+{
+  "$id": "ce_personaTestimonials.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Persona testimonials-default",
+  "entityType": "ce_personaTestimonials",
+  "fields": [
+    "c_personaTestimonialContent",
+    "c_personaTestimonialGivenByPhoto",
+    "c_personaTestimonialGivenByPosition",
+    "c_personaTestimonialGivenName"
+  ],
+  "required": []
+}

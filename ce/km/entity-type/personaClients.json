@@ -1,0 +1,7 @@
+{
+  "$id": "ce_personaClients",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
+  "description": "",
+  "displayName": "Persona clients",
+  "pluralDisplayName": ""
+}

@@ -1,0 +1,7 @@
+{
+  "$id": "ce_featuredService",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
+  "description": "Featured services listing",
+  "displayName": "Featured service",
+  "pluralDisplayName": "Featured services"
+}

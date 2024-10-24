@@ -1,0 +1,46 @@
+{
+  "$id": "ce_prices",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_prices",
+  "displayName": "Prices",
+  "presentationEntries": [
+    {
+      "displayName": "Sisu",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Põhiteave",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "price",
+          "visibleOnAdd": true
+        }
+      ]
+    },
+    {
+      "displayName": "Muu",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Ainult ettevõttesiseseks kasutuseks",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "folder"
+        },
+        {
+          "id": "labels"
+        }
+      ]
+    }
+  ]
+}

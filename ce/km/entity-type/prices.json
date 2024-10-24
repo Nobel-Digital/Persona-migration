@@ -1,0 +1,7 @@
+{
+  "$id": "ce_prices",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
+  "description": "",
+  "displayName": "Prices",
+  "pluralDisplayName": "Prices"
+}

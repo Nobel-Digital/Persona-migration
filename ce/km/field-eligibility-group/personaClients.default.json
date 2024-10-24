@@ -1,0 +1,11 @@
+{
+  "$id": "ce_personaClients.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Persona clients-default",
+  "entityType": "ce_personaClients",
+  "fields": [
+    "c_personaClientImage",
+    "c_personaClientUrl"
+  ],
+  "required": []
+}

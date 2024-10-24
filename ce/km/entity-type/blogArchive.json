@@ -1,0 +1,7 @@
+{
+  "$id": "ce_blogArchive",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
+  "description": "",
+  "displayName": "Blog archive",
+  "pluralDisplayName": ""
+}

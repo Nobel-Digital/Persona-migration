@@ -1,0 +1,12 @@
+{
+  "$id": "ce_category.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Category-default",
+  "entityType": "ce_category",
+  "fields": [
+    "c_hiddenKeywords",
+    "c_sponsors",
+    "keywords"
+  ],
+  "required": []
+}

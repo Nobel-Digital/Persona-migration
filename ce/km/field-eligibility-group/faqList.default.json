@@ -1,0 +1,10 @@
+{
+  "$id": "ce_faqList.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Faq list-default",
+  "entityType": "ce_faqList",
+  "fields": [
+    "c_faqContent"
+  ],
+  "required": []
+}
