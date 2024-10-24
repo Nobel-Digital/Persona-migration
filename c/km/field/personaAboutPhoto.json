@@ -1,0 +1,14 @@
+{
+  "$id": "c_personaAboutPhoto",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Persona about photo",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "imageType": {
+      "unconstrainedAspectRatioAllowed": true,
+      "noAllowedAspectRatios": true
+    }
+  },
+  "typeId": "image"
+}

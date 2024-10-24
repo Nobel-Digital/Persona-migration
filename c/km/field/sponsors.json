@@ -1,0 +1,20 @@
+{
+  "$id": "c_sponsors",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Sponsors",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "image",
+      "maxLength": 500,
+      "type": {
+        "imageType": {
+          "noAllowedAspectRatios": true,
+          "unconstrainedAspectRatioAllowed": true
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "c_newsWidget",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "into this popup you can add different Yext widgets ",
+  "displayName": "news widget",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "richTextV2Type": {
+      "maxLength": 10000,
+      "usePrivateUrls": false
+    }
+  },
+  "typeId": "richTextV2"
+}

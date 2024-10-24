@@ -1,0 +1,22 @@
+{
+  "$id": "c_featuredServiceItems",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Featured service items",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "maxLength": 5000,
+      "type": {
+        "entityReferenceType": {
+          "supportedEntityTypeIds": [
+            "ce_featuredService"
+          ],
+          "type": "ONE_WAY"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

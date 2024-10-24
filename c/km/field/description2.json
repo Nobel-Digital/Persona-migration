@@ -1,0 +1,14 @@
+{
+  "$id": "c_description2",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "description 2",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

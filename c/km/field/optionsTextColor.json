@@ -1,0 +1,22 @@
+{
+  "$id": "c_optionsTextColor",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Options text color",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "optionType": {
+      "option": [
+        {
+          "displayName": "#000000",
+          "textValue": "#000000"
+        },
+        {
+          "displayName": "#44678F",
+          "textValue": "#44678F"
+        }
+      ]
+    }
+  },
+  "typeId": "option"
+}

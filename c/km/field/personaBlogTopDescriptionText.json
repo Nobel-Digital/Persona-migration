@@ -1,0 +1,14 @@
+{
+  "$id": "c_personaBlogTopDescriptionText",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Persona blog top description text",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "richTextV2Type": {
+      "maxLength": 100000,
+      "usePrivateUrls": false
+    }
+  },
+  "typeId": "richTextV2"
+}

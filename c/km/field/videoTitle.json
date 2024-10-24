@@ -1,0 +1,14 @@
+{
+  "$id": "c_videoTitle",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "video title",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 10000
+    }
+  },
+  "typeId": "string"
+}

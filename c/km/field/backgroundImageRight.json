@@ -1,0 +1,18 @@
+{
+  "$id": "c_backgroundImageRight",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Background image right",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "imageType": {
+      "minSize": {
+        "width": 1920,
+        "height": 1080
+      },
+      "unconstrainedAspectRatioAllowed": true,
+      "noAllowedAspectRatios": true
+    }
+  },
+  "typeId": "image"
+}

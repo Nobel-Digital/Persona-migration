@@ -1,0 +1,14 @@
+{
+  "$id": "c_socialMedicine",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "socialMedicine",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "URL",
+      "maxLength": 2000
+    }
+  },
+  "typeId": "string"
+}

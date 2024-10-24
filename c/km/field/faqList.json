@@ -1,0 +1,22 @@
+{
+  "$id": "c_faqList",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Faq list",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "maxLength": 50,
+      "type": {
+        "entityReferenceType": {
+          "supportedEntityTypeIds": [
+            "ce_faqList"
+          ],
+          "type": "ONE_WAY"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "c_optionsBackgroundColor",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Options background color",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "optionType": {
+      "option": [
+        {
+          "displayName": "#FFFFFF",
+          "textValue": "#FFFFFF"
+        },
+        {
+          "displayName": "#EAE4D6",
+          "textValue": "#EAE4D6"
+        }
+      ]
+    }
+  },
+  "typeId": "option"
+}

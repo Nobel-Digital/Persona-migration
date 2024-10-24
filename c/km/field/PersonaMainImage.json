@@ -1,0 +1,18 @@
+{
+  "$id": "c_PersonaMainImage",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Section 2 - Persona main image ",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "imageType": {
+      "minSize": {
+        "width": 1920,
+        "height": 1080
+      },
+      "unconstrainedAspectRatioAllowed": true,
+      "noAllowedAspectRatios": true
+    }
+  },
+  "typeId": "image"
+}

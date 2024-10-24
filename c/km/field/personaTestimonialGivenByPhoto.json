@@ -1,0 +1,23 @@
+{
+  "$id": "c_personaTestimonialGivenByPhoto",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Persona testimonial given by photo",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "imageType": {
+      "minSize": {
+        "width": 240,
+        "height": 240
+      },
+      "allowedAspectRatio": [
+        {
+          "horizontalFactor": 1,
+          "verticalFactor": 1
+        }
+      ],
+      "unconstrainedAspectRatioAllowed": false
+    }
+  },
+  "typeId": "image"
+}

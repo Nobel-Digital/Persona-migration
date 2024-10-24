@@ -1,0 +1,14 @@
+{
+  "$id": "c_contentLeftLogo",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Content left logo",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "imageType": {
+      "unconstrainedAspectRatioAllowed": true,
+      "noAllowedAspectRatios": true
+    }
+  },
+  "typeId": "image"
+}

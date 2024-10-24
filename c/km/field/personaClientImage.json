@@ -1,0 +1,14 @@
+{
+  "$id": "c_personaClientImage",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Persona client image",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "imageType": {
+      "unconstrainedAspectRatioAllowed": true,
+      "noAllowedAspectRatios": true
+    }
+  },
+  "typeId": "image"
+}

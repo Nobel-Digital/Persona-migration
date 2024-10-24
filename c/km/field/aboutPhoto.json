@@ -1,0 +1,18 @@
+{
+  "$id": "c_aboutPhoto",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "About photo",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "imageType": {
+      "minSize": {
+        "width": 640,
+        "height": 598
+      },
+      "unconstrainedAspectRatioAllowed": true,
+      "noAllowedAspectRatios": true
+    }
+  },
+  "typeId": "image"
+}

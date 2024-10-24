@@ -1,0 +1,20 @@
+{
+  "$id": "c_8777433483709648321",
+  "$schema": "https://schema.yext.com/config/platform/home-screen/v1",
+  "name": "Homescreen test",
+  "bannerText": "This is your Home Screen, where you can see an overview of your account.",
+  "modules": [
+    {
+      "insight": "LISTINGS-OVERVIEW"
+    },
+    {
+      "insight": "listings-listingsImpressionsByApp"
+    },
+    {
+      "module": "task-list"
+    },
+    {
+      "module": "recent-reviews"
+    }
+  ]
+}
